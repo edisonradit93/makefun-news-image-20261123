@@ -1,8 +1,8 @@
 # makefun-news-image-20261123
 
-[![make.fun competition](https://img.shields.io/badge/make.fun-news--image--20261123-blue.svg)](https://make.fun)
-[![make.fun pipeline](https://img.shields.io/badge/make.fun-pipeline--verified-success.svg)](https://make.fun)
-[![make.fun license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/edisonradit93/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/edisonradit93/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 An optimized TypeScript pipeline for processing, validating, and transferring daily news visual assets for the make.fun `news-image-20261123` competition.
 
